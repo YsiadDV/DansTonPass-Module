@@ -24,6 +24,7 @@ DansTonPass.then((pass_infos) => {
 - allInfo
 # DansTonPass OG Project
 https://github.com/borisflesch/dans-ton-pass
+@borisflesch
 ## Demo
 
 ![Demo DansTonPass](https://github.com/borisflesch/dans-ton-pass/blob/main/static/demo.jpg?raw=true "Demo DansTonPass")
