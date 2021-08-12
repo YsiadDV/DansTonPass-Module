@@ -1,7 +1,7 @@
 # DansTonPass (Npm Project)
 # Comment l'utiliser ? 
 ```js
-const DansTonPass = require('danstonpass')
+const DansTonPass = require('danstonpass')()
 DansTonPass.then((pass_infos) => {
     console.log(pass_infos);
 })
