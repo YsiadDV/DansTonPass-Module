@@ -1,4 +1,5 @@
 # DansTonPass (Npm Project)
+https://www.npmjs.com/package/danstonpass
 # Comment l'utiliser ? 
 ```js
 const DansTonPass = require('danstonpass')('./MySuperCodeQR.png')
